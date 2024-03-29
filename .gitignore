@@ -5,7 +5,7 @@
 Untitled.ipynb
 *.h5
 */runs/*
-*/checkpoint-[0-9]+/*
+*/checkpoint-****/*
 
 
 
