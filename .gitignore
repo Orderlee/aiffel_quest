@@ -9,4 +9,4 @@ Untitled.ipynb
 *.png
 *.txt
 /model/
-
+/my_keras_tuner/
