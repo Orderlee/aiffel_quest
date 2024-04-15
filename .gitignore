@@ -7,6 +7,6 @@ Untitled.ipynb
 */runs/*
 */checkpoint-****/*
 *.png
-
-
+*.txt
+/model/
 
