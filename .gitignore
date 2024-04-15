@@ -10,3 +10,5 @@ Untitled.ipynb
 *.txt
 /model/
 /my_keras_tuner/
+*.pkl
+*.npy
